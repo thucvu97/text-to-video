@@ -14,6 +14,7 @@
 ### AI & Content Processing
 - **Gemini & ChatGPT**: Generate video scripts from text input.
 - **AWS Polly**: Convert text to speech (Text-to-Speech - TTS).
+- **ViettelAI**: Generate Vietnamese voiceovers for better localization.
 - **Kling & Gemini**: Generate and modify character outfits in videos.
 
 ### Storage & Distribution
