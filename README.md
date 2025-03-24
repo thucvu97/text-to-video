@@ -1,5 +1,8 @@
 # 🚀 Text-to-AI Video
 
+## 🎥 Demo  
+[Watch Demo](https://www.loom.com/share/ce75ef539f1445638a3f0671a6f9b0a1)  
+
 ## 🛠️ Technologies Used
 
 ### Frontend (FE)
